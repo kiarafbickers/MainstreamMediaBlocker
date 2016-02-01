@@ -1,0 +1,186 @@
+[
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": ".*abc.*"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": ".*aljazeera.*"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": ".*bloomberg.*"
+        }
+    },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*bbc.*"
+        }
+    },
+    {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*cbs.*"
+         }
+     },
+    {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*cnn.*"
+         }
+     },
+    {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*fox.*"
+         }
+     },
+    {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*msnbc.*"
+         }
+     },
+         {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*nbcnews.*"
+        }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*npr.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*nytimes.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*pbs.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*the-daily-show.*"
+         }
+     },
+         {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*glennbeck.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*theguardian.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*huffpost.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*newyorker.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*rachelmaddow.*"
+         }
+     },
+     {
+         "action": {
+         "type": "block"
+         },
+         "trigger": {
+         "url-filter": ".*rushlimbaugh.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*hannity.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*wsj.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*usatoday.*"
+         }
+     },
+     {
+         "action": {
+            "type": "block"
+         },
+         "trigger": {
+            "url-filter": ".*washingtonpost.*"
+         }
+     }
+]

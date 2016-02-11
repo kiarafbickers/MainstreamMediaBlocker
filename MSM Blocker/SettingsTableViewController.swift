@@ -2,8 +2,8 @@
 //  SettingsTableViewController.swift
 //  Mainstream Media Blocker
 //
-//  Created by Kiara Roblew on 01/30/15.
-//
+//  Created by Kiara Robles on 1/31/16.
+//  Copyright © 2016 kiaraRobles. All rights reserved.
 //
 
 import UIKit

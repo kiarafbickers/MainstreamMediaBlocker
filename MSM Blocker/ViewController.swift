@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Trump Block
 //
-//  Created by Alex Meyer on 10/12/15.
-//
+//  Created by Kiara Robles on 1/31/16.
+//  Copyright © 2016 kiaraRobles. All rights reserved.
 //
 
 import UIKit
